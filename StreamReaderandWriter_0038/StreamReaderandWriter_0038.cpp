@@ -21,4 +21,10 @@ int main() {
 
 		ifstream infile;
 		infile.open("contohfile.txt");
+
+		cout << endl << ">= Membuka dan Membaca file " << endl;
+		if (infile.is_open())
+		{
+
+		}
 }
