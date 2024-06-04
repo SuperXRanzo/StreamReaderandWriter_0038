@@ -25,6 +25,7 @@ int main() {
 		cout << endl << ">= Membuka dan Membaca file " << endl;
 		if (infile.is_open())
 		{
-
+			
+			while (getline(infile, baris))
 		}
 }
