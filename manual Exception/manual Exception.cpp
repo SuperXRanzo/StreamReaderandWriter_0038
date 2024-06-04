@@ -14,3 +14,4 @@ int main()
 		cout << "defult Pengecualian dieksekusi" << endl;
 	}
 	return 0;
+}
